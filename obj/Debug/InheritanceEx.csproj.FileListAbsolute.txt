@@ -1,0 +1,12 @@
+C:\dev\exercise\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.exe.config
+C:\dev\exercise\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.exe
+C:\dev\exercise\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.pdb
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csprojAssemblyReference.cache
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.Properties.Resources.resources
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csproj.GenerateResource.cache
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csproj.CoreCompileInputs.cache
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.exe
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.pdb
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.DierForm.resources
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.RekeningForm.resources
+C:\dev\exercise\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.MainForm.resources
